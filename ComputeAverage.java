@@ -1,7 +1,4 @@
-/* Peter
-* 
-* Programming Essentials
-*
+/*
 * October 11, 2018
 * 
 * The purpose of this program is to accept 3 numbers from the user and then output the average of those three numbers.
